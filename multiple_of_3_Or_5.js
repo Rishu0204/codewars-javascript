@@ -7,7 +7,6 @@
 // Note: If the number is a multiple of both 3 and 5, only count it once.
 
 // Solution
-
 function solution(number) {
   let sum = 0;
   //if number entered is less than 0
